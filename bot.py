@@ -7,7 +7,7 @@ from config import Config
 from aiohttp import web
 from pytz import timezone
 from datetime import datetime
-from plugins.web_support import web_server
+from Shukla.web_support import web_server
 import pyromod
 
 logging.config.fileConfig('logging.conf')
