@@ -9,17 +9,17 @@
     "env": {
         "API_ID": {
             "description": "Your APP ID From my.telegram.org ",
-            "value": "",
+            "value": "29308061",
             "required": true 
         },
         "API_HASH": {
             "description": "Your API Hash From my.telegram.org ",
-            "value": "",
+            "value": "462de3dfc98fd938ef9c6ee31a72d099",
             "required": true 
         },
         "FORCE_SUB": {
             "description":  "ID of a Channel which you want to do Force Sub to use the bot. Example: -1001981748188",
-            "value": "",
+            "value": "-1001863207668",
             "required": true 
         },
         "BOT_TOKEN": {
@@ -29,27 +29,27 @@
         },
         "BOT_USERNAME": {
             "description": "Your Bot Username From @BotFather",
-            "value": "",
+            "value": "Sex_junglebot",
             "required": true 
         },
         "ADMIN": {
             "description":"Add Your User ID multiple is use space to split",
-            "value": "",
+            "value": "6762113050",
             "required": true 
         },
         "LOG_CHANNEL": {
             "description":"Bot Log Sending Channel (just create a private channel and add bot to admin and take channel id to add this variable) ⚠️ id startswith -100 must",
-            "value": "",
+            "value": "-1002018556839",
             "required": true           
         },
         "DB_URL": {
             "description": "Your Mongo DB URL Obtained From mongodb.com",
-            "value": "",
+            "value": "mongodb+srv://SHASHANK:STRANGER@shashank.uj7lold.mongodb.net/?retryWrites=true&w=majority",
             "required": true 
         },
         "START_PIC": {
             "description": "Your Bot start cmd Pic from @MT_TelegraPH_Bot",
-            "value": "",
+            "value": "https://telegra.ph/file/83d9ba38710af1b09021c.png",
             "required": false
         }
     }
