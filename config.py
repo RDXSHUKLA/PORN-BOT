@@ -57,7 +57,7 @@ Click The Buttons Below To Search
 
     ABOUT_TXT = """<b>╭───────────⍟
 ├🤖 ᴍy ɴᴀᴍᴇ : {}
-├👑Cʜᴀᴛ Gʀᴏᴜᴘ : <a href=https://t.me/STRANGERXWOLRD>𝐒ᴛʀᴀɴɢᴇʀ~Cʜᴀᴛs</a> 
+├👑Cʜᴀᴛ Gʀᴏᴜᴘ : <a href=https://t.me/STRANGERXWORLD>𝐒ᴛʀᴀɴɢᴇʀ~Cʜᴀᴛs</a> 
 ├☃️ Sᴜᴘᴘᴏʀᴛ  : <a href=https://t.me/SHIVANSH474>•Sᴜᴘᴘᴏʀᴛ•</a>
 ├📕 Lɪʙʀᴀʀy : <a href=https://github.com/pyrogram>Pyʀᴏɢʀᴀᴍ</a>
 ├✏️ Oᴡɴᴇʀ : <a href=https://t.me/SHIVANSH39>•Oᴡɴᴇʀ•</a>
@@ -77,7 +77,7 @@ Tʜɪs Bᴏᴛ Wɪʟʟ Hᴇʟᴘ Yᴏᴜ Tᴏ Dᴏᴡɴʟᴏᴀᴅ Fᴏʟʟᴏ�
 ⊚ /pornn Pʟᴇᴀsᴇ ᴘʀᴏᴠɪᴅᴇ ᴀ ᴛɪᴛʟᴇ ᴛᴏ sᴇᴀʀᴄʜ.
 ⊚ /pornplay Pʟᴇᴀsᴇ ᴘʀᴏᴠɪᴅᴇ ᴀ ᴛɪᴛʟᴇ ᴛᴏ sᴇᴀʀᴄʜ.
 
-❗ 𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=https://t.me/STRANGERXWOLRD>•sᴛʀᴀɴɢᴇʀ ᴜᴘᴅᴀᴛᴇ</a>
+❗ 𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=https://t.me/STRANGERXWORLD>•sᴛʀᴀɴɢᴇʀ ᴜᴘᴅᴀᴛᴇ</a>
 """
 
 
