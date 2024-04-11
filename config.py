@@ -60,7 +60,7 @@ Click The Buttons Below To Search
 ├👑Cʜᴀᴛ Gʀᴏᴜᴘ : <a href=https://t.me/STRANGERXWORLD>𝐒ᴛʀᴀɴɢᴇʀ~Cʜᴀᴛs</a> 
 ├☃️ Sᴜᴘᴘᴏʀᴛ  : <a href=https://t.me/SHIVANSH474>•Sᴜᴘᴘᴏʀᴛ•</a>
 ├📕 Lɪʙʀᴀʀy : <a href=https://github.com/pyrogram>Pyʀᴏɢʀᴀᴍ</a>
-├✏️ Oᴡɴᴇʀ : <a href=https://t.me/SHIVANSH39>•Oᴡɴᴇʀ•</a>
+├✏️ Oᴡɴᴇʀ : <a href=https://t.me/SHIVANSHDEVS>•Oᴡɴᴇʀ•</a>
 ╰───────────────⍟ """
 
     HELP_TXT = """
