@@ -10,7 +10,7 @@
 
 ## Deploy To Render ⚠️ Deploy On EU Server
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/SHIVANSH475/PORN-BOT)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/RDXSHUKLA/PORN-BOT)
 
 ## Deploy To Railway ⚠️ Deploy On EU Server
 
@@ -18,7 +18,7 @@
 
 ## Deploy To Heroku ⚠️ Deploy On EU Server
 
-<a href="https://heroku.com/deploy?template=https://github.com/SHIVANSH475/PORN-BOT"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a>
+<a href="https://heroku.com/deploy?template=https://github.com/RDXSHUKLA/PORN-BOT"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a>
 
 
 ## Configs 
